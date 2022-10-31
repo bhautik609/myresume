@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/myresume/static/css/main.dd18a08b.css",
+    "main.js": "/myresume/static/js/main.d4a6a442.js",
+    "static/js/787.d3dd3dac.chunk.js": "/myresume/static/js/787.d3dd3dac.chunk.js",
+    "static/media/boxicons.svg": "/myresume/static/media/boxicons.9e2b21b135bc7d4c803f.svg",
+    "static/media/boxicons.eot": "/myresume/static/media/boxicons.65a8ce52fc5427e8f94d.eot",
+    "static/media/boxicons.woff": "/myresume/static/media/boxicons.d12afc36557395143e4b.woff",
+    "static/media/boxicons.ttf": "/myresume/static/media/boxicons.db9ddb1898dbd76badca.ttf",
+    "static/media/react.jpg": "/myresume/static/media/react.423973b28fea70119574.jpg",
+    "static/media/bootstrap-icons.woff?": "/myresume/static/media/bootstrap-icons.e559bf06bc84fd9525e6.woff",
+    "static/media/boxicons.woff2": "/myresume/static/media/boxicons.df635aaf04cd75132f62.woff2",
+    "static/media/bootstrap-icons.woff2?": "/myresume/static/media/bootstrap-icons.ea98e12d2d58747f9fc5.woff2",
+    "static/media/profileimage.jpeg": "/myresume/static/media/profileimage.f6a646e32f80d36cc38e.jpeg",
+    "index.html": "/myresume/index.html",
+    "main.dd18a08b.css.map": "/myresume/static/css/main.dd18a08b.css.map",
+    "main.d4a6a442.js.map": "/myresume/static/js/main.d4a6a442.js.map",
+    "787.d3dd3dac.chunk.js.map": "/myresume/static/js/787.d3dd3dac.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dd18a08b.css",
+    "static/js/main.d4a6a442.js"
+  ]
+}
